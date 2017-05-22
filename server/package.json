@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "0.1.1",
+  "description": "",
+  "main": "server.js",
+  "author": "Judson Costa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.1"
+  }
+}
